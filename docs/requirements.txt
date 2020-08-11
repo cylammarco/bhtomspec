@@ -1,0 +1,13 @@
+astropy
+ccdproc
+git+git://github.com/cylammarco/aspired.git@dev
+rascal
+plotly
+astroscrappy
+spectres
+numpy
+scipy
+reportlab
+svglib
+pyyaml
+git+git://github.com/SuperKogito/sphinxcontrib-pdfembed
